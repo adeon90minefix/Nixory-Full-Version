@@ -244,4 +244,4 @@ This repository serves as the official landing page for Nixory. The software is 
 **Get the most recent version of Nixory today!**
 
 ---
-**Last updated:** 2026-10-25 14:51:23 UTC
+**Last updated:** 2026-10-25 18:10:40 UTC
